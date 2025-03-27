@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Droid+Sans+Mono&display=swap");
+
+body {
+  font-family: "Droid Sans Mono", monospace;
+}
+.CodeMirror {
+  font-size: 16px !important;
+  line-height: 1.5;
+  height: 100% !important;
+}
+.CodeMirror-scroll {
+  min-height: 100% !important;
+}
