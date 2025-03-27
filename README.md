@@ -54,7 +54,7 @@ npm install
 ````bash
 cd ..
 npm install
-```md
+````
 # Collab-Code
 
 Collab-Code is a real-time collaborative code editor that allows multiple users to write and edit code together in real-time. It is built using modern web technologies like React, Vite, and Socket.IO, providing a seamless and interactive experience for coding with friends or teammates.
@@ -85,7 +85,7 @@ Collab-Code is a real-time collaborative code editor that allows multiple users 
 - Node.js (v16 or later)
 - npm or yarn
 - A modern web browser
-
+````
 ### Steps to Run
 
 1. **Clone the Repository**:
@@ -159,6 +159,3 @@ Collab-Code is a real-time collaborative code editor that allows multiple users 
 
 Feel free to contribute to this project by submitting issues or pull requests!
 
-```
-
-```
